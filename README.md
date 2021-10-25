@@ -12,3 +12,8 @@ A good website: Art of Problem Solving
 Step 1: Calculate all values of z
 	
 Step 2: using the formula for area to get the answer(I will expand on this)
+
+
+
+	2019 AMC10B Problem 18
+![IB$O(JM~YI%DKA@M3@TDDP0](https://user-images.githubusercontent.com/70703379/138622771-f6515d86-2349-47a3-b2f1-e546f21f4be7.png)
