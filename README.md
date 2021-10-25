@@ -2,7 +2,7 @@
 
 # Things You Need to Know to get a Good Score in AMC 
 						
-	  A good website: Art of Problem Solving
+A good website: Art of Problem Solving
 
 
 	Two step to solve AMC12 2018A 22 题
