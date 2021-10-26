@@ -30,3 +30,8 @@ a
 Using Geometric Series with infinity terms.(Later)
 
 
+
+
+
+
+*Date of Publish: October 25, 2021*
